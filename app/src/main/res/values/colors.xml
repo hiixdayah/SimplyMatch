@@ -2,5 +2,14 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
+    <color name="graylight">#fafafa</color>
+    <color name="startblue">#09c6df</color>
+    <color name="endblue">#0bcce6</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorback">#ffe4e1</color>
+    <color name="colorpurple">#e6e6fa</color>
+    <color name="colorpurple2">#d8bfd8</color>
+    <color name="colorblack">#000000</color>
+
+
 </resources>
